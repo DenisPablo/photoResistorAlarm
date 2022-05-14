@@ -7,4 +7,5 @@ for make is project is necessary. [
 1-Buzzer
 1-PhotoResistor
 2-Resistor 220
+1-Resistor Pullup
 ]
